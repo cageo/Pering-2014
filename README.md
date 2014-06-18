@@ -4,7 +4,7 @@ Matlab code corrplot from published Computers and Geosciences paper
 ===================================================================
 Pering, T. D., Tamburello, G., McGonigle, A., Hanna, E., Aiuppa, A.,
 2014. Correlation of Oscillatory Behaviour in Matlab using Wavelets.
-Computers and Geosciences
+Computers and Geosciences, DOI:10.1016/j.cageo.2014.06.006
 
 Abstract:Here we present a novel computational signal processing 
 approach for comparing two signals of equal length and sampling 
